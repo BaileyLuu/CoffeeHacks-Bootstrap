@@ -1,6 +1,6 @@
 # CoffeHacks-Bootstrap
 
-I tried to create my own hackathon brand using Bootstrap! Using Replit, I also learnt about Version Control
+I tried to create my own hackathon brand using Bootstrap! Using Replit, I also learnt about Version Control. Bootstrap is an Open-Source CSS framework so it's pretty cool to use [Bootstrap's code](https://getbootstrap.com/docs/5.1/getting-started/introduction/) :)
 
 Check out [here](https://learn-how-to-use-bootstrap.baileyluu.repl.co/)
 
