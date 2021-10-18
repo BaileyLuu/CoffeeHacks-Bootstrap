@@ -1,6 +1,6 @@
 # CoffeHacks-Bootstrap
 
-I tried to create my own hackathon brand using Bootstrap! 
+I tried to create my own hackathon brand using Bootstrap! Using Replit, I also learnt about Version Control
 
 Check out [here](https://learn-how-to-use-bootstrap.baileyluu.repl.co/)
 
