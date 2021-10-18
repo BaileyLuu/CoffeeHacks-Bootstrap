@@ -2,8 +2,8 @@ body{
   background-color: #f6f8fc;
 }
 #logo {
-  height: 500px;
-  width:600px;
+  height: 400px;
+  width:500px;
 }
 p{
   font-size: 20px;
@@ -11,9 +11,26 @@ p{
 .faqs{
   background-color: #edf3f5;
   box-shadow: 5px 10px #e1eaed;
+  font-size:25px;
 }
+
 .social-media{
   height: 50px;
   width:50px;
 }
+.sponsors{
+  height: 300px;
+  width:700px;
+}
+
+ .up {
+            position: relative;
+            top: 0;
+            transition: top ease 0.5s;
+        }
+
+        .up:hover {
+            top: -10px;
+        }
+
 
