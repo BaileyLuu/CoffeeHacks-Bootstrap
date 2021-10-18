@@ -1,3 +1,15 @@
 body{
   background-color: #f6f8fc;
 }
+#logo {
+  height: 500px;
+  width:600px;
+}
+p{
+  font-size: 20px;
+}
+.faqs{
+  background-color: #edf3f5;
+  box-shadow: 5px 10px #e1eaed;
+}
+
