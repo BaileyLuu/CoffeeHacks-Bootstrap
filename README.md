@@ -1,4 +1,4 @@
-# CoffeHacks-Bootstrap
+# CoffeeHacks-Bootstrap
 
 I tried to create my own hackathon brand using Bootstrap! Using Replit, I also learnt about Version Control. Bootstrap is an Open-Source CSS framework so it's pretty cool to use [Bootstrap's code](https://getbootstrap.com/docs/5.1/getting-started/introduction/) :)
 
@@ -23,5 +23,5 @@ I'm able to create hackathon website for the first time!
 Learnt so much about Bootstrap and how hard the organizers have to build the website. 
 
 ## What's next for Learn how to use Bootstrap
-- Add Sponsors part (since the hackathon is not real so I don't want to put legitimate sponsors)
+- Add more Sponsors part (since the hackathon is not real so I don't want to put legitimate sponsors)
 
